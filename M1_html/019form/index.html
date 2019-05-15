@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tạo đăng nhập form</title>
+</head>
+<body>
+<pre>
+    *** Thẻ form có 3 thuộc tính quan trọng
+    name : tên của form
+    method : mang 2 giá trị post hoặc get ( khi học php )
+    action : địa chỉ mà form sẽ gửi dữ liệu đến
+    *** thẻ input
+    có type="text" => văn bản
+    thẻ input có thuộc tính name ( tên của input )
+    value="" ( giá trị của ô input )
+    placeholder="" ( hướng dẫn cho người dùng hiểu ô input làm gì nó sẽ xuất hiện khi mà chưa nhập
+    giá trị vào ô input đó )
+    *** thẻ label là thẻ nhãn
+  *** textarea dùng để nhập văn bản có nhiều dòng row và col
+    *** input dùng để nhập văn bản ngắn có 1 dòng
+
+</pre>
+<form action="" name="register" method="post">
+    <div style="padding: 10px">
+    <label >họ tên</label>
+    <input type="text" name="name" value="" placeholder="nhập họ tên vào đây">
+
+</div>
+    <div style="padding: 1px">
+        <label for="">SDT</label>
+        <input type="text" name="phone" value="" placeholder="nhập số điện thoại vào đây">
+        <button value="button">gửi mã xác thực</button>
+
+    </div>
+    <div style="padding: 10px">
+        <label>Mã xác thực</label>
+        <input type="text" name="xacthuc"value="" placeholder="nhập mã xá thực guuiwr đến số điện thọa vào đây">
+    </div>
+    <div style="padding: 10px">
+      <label>email</label>
+       <input type="text" name="email" value="" placeholder="nhập địa chỉ email vào đây">
+    </div>
+    <div style="padding: 10px">
+      <label>mật khẩu</label>
+        <input type="password" name="matkhau" value="" placeholder="nhập mật khẩu từ 6 đến 32 kí tự">
+    </div>
+    <div style="padding: 10px">
+    <label>giới tính</label>
+        <input type="radio" name="gioitinh" value="" placeholder="nam">nam
+        <input type="radio" name="giotinh" value="" placeholder="nữ">nữ
+    </div>
+    <div style="padding: 10px">
+     <label>ngay sinh</label>
+        <select name="day">
+            <option value="1">ngày1</option>
+            <option value="2">ngày2</option>
+            <option value="3">ngày3</option>
+            <option value="4">ngày4</option>
+            <option value="5">ngày5</option>
+        </select>
+        <select name="month">
+            <option value="1">tháng 1</option>
+            <option value="2">tháng 2</option>
+            <option value="3">tháng 3</option>
+            <option value="4">tháng 4</option>
+            <option value="5">tháng 5</option>
+            <option value="6">tháng 6</option>
+            <option value="7">tháng 7</option>
+            <option value="8">tháng 8</option>
+            <option value="9">tháng 9</option>
+            <option value="10">tháng 10</option>
+            <option value="11">tháng 11</option>
+            <option value="12">tháng 12</option>
+        </select>
+        <select name="year">
+            <option value="1996">năm 1996</option>
+            <option value="1997">năm 1997</option>
+            <option value="1998">năm 1998</option>
+            <option value="1999">năm 1999</option>
+            <option value="2000">năm 2000</option>
+        </select>
+    </div>
+    <div style="padding: 10px">
+    <input type="checkbox" name="checkbox" placeholder="">
+        Nhận các thông tin và chương trình khuyến mãi của Tiki qua email
+    </div>
+    <div style="padding: 10px">
+     <input type="submit" name="submit" value="tạo tài khoản">
+    </div>
+    <div style="padding: 10px">
+        <p>
+            Khi bạn nhấn Đăng ký, bạn đã đồng ý thực hiện mọi giao dịch mua bán theo
+            <a href="#">điều kiện sử dụng và chính sách của Tiki.</a>
+        </p>
+    </div>
+    <div style="padding: 10px">
+        <label>ghi chú</label>
+        <textarea name="note" cols="25" rows="10"></textarea>
+
+    </div>
+    <p style=""></p>
+</form>
+</body>
+</html>
