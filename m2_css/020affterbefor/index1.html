@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="normalize.css">
+    <style type="text/css">
+        .container{
+            background: gray;
+            padding: 20px;
+            margin: 30px auto;
+            width: 800px;
+        }
+        .row{
+            background: green;
+            overflow: auto;
+        }
+        .row::before{
+            content: 'nội dung muốn thêm vào phía trươc muốn thêm vào  html';
+            color: white;
+            display: block;
+            clear: both;
+        }
+        .row::after{
+            content: 'nội thêm muốn thêm vào phía sau vào html';
+            color: white;
+            display: block;
+            clear: both;
+
+        }
+        .cot1{
+            float: left;
+            width: 50%;
+            background: orange;
+        }
+        .cot2{
+            padding: 20px;
+            float: right;
+            width: 50%;
+            background: orange;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="cot1">cột số 1</div>
+        <div class="cot2">cột số 2</div>
+    </div>
+</div>
+</body>
+</html>
