@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        .demo{
+            margin-left: 40px;
+            margin-top: 40px;
+        }
+        .red ,.green, .blue{
+            width: 100px;
+            height: 100px;
+            color: white;
+            text-align: center;
+            line-height: 100px;
+        }
+        .red{
+            background: red;
+            z-index: 3;
+            position: relative;
+        }
+        .green{
+            background: green;
+            margin-top: -40px;
+            margin-left: 60px;
+            z-index: 2;
+            position: relative;
+        }
+        .blue{
+            background: blue;
+            margin-top: -40px;
+            margin-left: 120px;
+            z-index: 1;
+            position: relative;
+        }
+    </style>
+</head>
+<body>
+<div class="demo">
+    <div class="red">
+    <span>red</span>
+</div>
+    <div class="green">
+        <span>green</span>
+    </div>
+    <div class="blue">
+        <span>blue</span>
+    </div>
+</div>
+
+</body>
+</html>

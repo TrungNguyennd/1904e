@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+thay vì truyền giá trị tham số của hàm
+thì sẽ truyền biến cho tham số của hàm
+
+<script type="text/javascript">
+    /**
+     * a và b sẽ tham số cần để truyền vào
+     * @param a
+     * @param b
+     */
+    function tonghaiso(a , b) {
+        var c = a + b;
+        return c;
+    }
+    //gọi hàm
+     var a = 4;
+    var b = 6;
+     var ketqua = tonghaiso(a,b);
+     console.log(ketqua);
+
+     function chuvihinhtron(e) {
+         var d = 3.14*e;
+         return d;
+     }
+
+     var e=3;
+
+     var dapan = chuvihinhtron(e);
+     console.log(dapan);
+</script>
+</body>
+</html>

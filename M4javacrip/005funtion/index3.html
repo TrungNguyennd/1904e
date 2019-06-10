@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<pre>
+    phạm vi của biến biến toàn cục và biến cục bộ
+    biến cục bộ có ảnh hưởng đến toàn nội dung của chương trình
+    biến cục bộ chỉ ảnh hưởng trong function
+    các tham số của hàm gọi là biến cục bộ
+    những biến dduocj khai báo trong hàm sẽ gọi là biến cục bộ
+
+</pre>
+<script type="text/javascript">
+    /**
+     * Tham số a, b là biến cục bộ trong hàm
+     * @param a
+     * @param b
+     * @returns {*}
+     */
+    function tinhtong2so(a, b) {
+        // Biến c là biến cục bô
+        var c = a + b;
+        return c;
+    }
+    // gọi hàm
+    /**
+     * Biến x , y , ketqua biến toàn cục
+     * @type {number}
+     */
+    var x = 3;
+    var y = 5;
+    var ketqua = tinhtong2so(x, y);
+    console.log(ketqua);
+    // truy cập vào 1 biến cục bộ bên ngoài hàm
+    console.log(c);
+</script>
+</body>
+</html>
