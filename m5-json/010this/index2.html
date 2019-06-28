@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<pre>
+ $(this) chỉ trực tiếp đối tượng khi đang tác động
+    khi sử dụng nó trong callblack
+</pre>
+
+<div class="container" style="padding: 30px; background: #7eff62;margin: 10px">
+    Thị trường lao động đang trở thành một "đại dương đỏ" với sự cạnh tranh khốc liệt chưa từng có. Việc các doanh nghiệp (đặc biệt là Startup & SME) tìm kiếm và tuyển dụng các ứng viên đạt đủ yêu cầu đảm nhận vị trí đã trở thành một công việc cực kỳ khó khăn, tốn kém và mất nhiều thời gian.
+</div>
+<div class="container" style="padding: 30px; background: blue;margin: 10px">
+    Thị trường lao động đang trở thành một "đại dương đỏ" với sự cạnh tranh khốc liệt chưa từng có. Việc các doanh nghiệp (đặc biệt là Startup & SME) tìm kiếm và tuyển dụng các ứng viên đạt đủ yêu cầu đảm nhận vị trí đã trở thành một công việc cực kỳ khó khăn, tốn kém và mất nhiều thời gian.
+</div>
+<div class="container" style="padding: 30px; background: green;margin: 10px">
+    Thị trường lao động đang trở thành một "đại dương đỏ" với sự cạnh tranh khốc liệt chưa từng có. Việc các doanh nghiệp (đặc biệt là Startup & SME) tìm kiếm và tuyển dụng các ứng viên đạt đủ yêu cầu đảm nhận vị trí đã trở thành một công việc cực kỳ khó khăn, tốn kém và mất nhiều thời gian.
+</div>
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(".container").mouseenter(function () {
+            $(".container").css("background", "green");
+        });
+        $(".container").mouseleave(function () {
+            $(".container").css("background", "orange");
+        });
+    });
+</body>
+</html>

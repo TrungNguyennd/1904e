@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="container">
+    <nav>
+        <ul class="ullvel1">
+           <li class="home"><a class="lv11" href="#">Trang chủ</a>
+               <ul class="ullevel12">
+                   <li><a class="lv12" href="#">trang chu 1</a></li>
+                   <li><a class="lv12" href="#">trang chu 2</a></li>
+               </ul>
+           </li>
+           <li class="intro"><a class="lv11" href="#">giới thiệu</a></li>
+           <li class="product"><a class="lv11" href="#">sản phẩm </a></li>
+           <li class="new"><a class="lv11" href="#">Tin tức</a></li>
+           <li class="contact"><a class="lv11" href="#">liên hệ</a></li>
+        </ul>
+    </nav>
+</div>
+<div style="margin-top: 30px">
+    <button id="control">control</button>
+</div>
+<script
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+       $('#control').click(function () {
+          $("li.product").prev().css({"padding":"20px","border":"1px solid green"})
+       })
+    })
+</script>
+</body>
+</html>

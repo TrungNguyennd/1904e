@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<pre>
+    html() được để lấy html bên trng văn bản
+   html(content_html) dùng để đặt html
+</pre>
+<p id="source">đây là thẻ p</p>
+<p id="target">nội dung thẻ ban đầu </p>
+<button id="move">move</button>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#move").on("click", function () {
+            var content_html = $("#source").html();
+            console.log(content_html);
+            $("#target").html(content_html);
+        });
+    });
+</script>
+</body>
+</html>

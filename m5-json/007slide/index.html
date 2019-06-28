@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script
+            src="https://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+
+<pre>
+  slide
+</pre>
+<div id="title" style="background: green">Title</div>
+<div id="desc" style="background: orange">Định dạng JSON là gần như giống hệt với các đối tượng JavaScript.
+
+    Trong JSON, phím phải chuỗi, được viết với dấu ngoặc kép:</div>
+<button id="up">slide up</button>
+<button id="dow">slide dow</button>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function(){
+      $("#up").on("click", function () {
+          $("#desc").slideUp();
+      });
+        $("#down").on("click", function () {
+            $("#desc").slideDown();
+        });
+
+    });
+</script>
+</body>
+</html>
