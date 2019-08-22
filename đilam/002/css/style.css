@@ -1,0 +1,70 @@
+body{
+    background: white;
+    color: #25282b;
+    font-family: Arial;
+    font-size: 12px;
+    margin: 0;
+}
+.container-fluid{
+    width: 100%;
+}
+.container{
+    width: auto;
+    margin: auto;
+}
+.clearfix{
+    clear: both;
+}
+header{
+    background: white;
+    height: 125px;
+}
+header .top-header{
+    background: #303336;
+    height: 42px;
+}
+header .top-header p{
+    color: #f1a82e;
+    float: left;
+    margin-top: 14px;
+    margin-left: 63px;
+}
+header .top-header .form{
+    float: right;
+    margin-top: 10px;
+    margin-right: 36px;
+    border: 1px solid #f1a82e;
+
+}
+header .top-header .form button{
+    background: #f1a82e;
+    border: none;
+}
+header .top-header .form input{
+    border: none;
+    float: left;
+    background: #34363b;
+}
+header .menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header .menu .logo{
+    margin-left: 43px;
+}
+header .menu .menu-con{
+    float: right;
+
+}
+header .menu .menu-con ul li {
+    float: left;
+    list-style: none;
+}
+header .menu .menu-con ul li a{
+
+    color:#25282b ;
+    text-decoration: none;
+   padding:  35px;
+
+}
