@@ -1,77 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eafec31-8032-4337-90a6-7a7188cf7d3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/010opp/001/final.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/001/index1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/001/index2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/001/index3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/001/index4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/001/index5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/001/index6.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/001/index7.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/001/index8.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/002/class1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/002/class2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/002/class3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/003/class1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/003/class2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/003/class3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/003/class4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applogin/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applogin/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applogin/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applogin/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applogin/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applogin/sample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/backend/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/backend/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/frontend/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/frontend/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/models/backend/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/models/backend/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/models/frontend/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/models/frontend/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/002/app/models/model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/backend/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/backend/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/frontend/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/frontend/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/models/backend/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/models/backend/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/models/frontend/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/models/frontend/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m11namespace/003/app/models/model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-RegularItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/icon/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/icon/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/font/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/giaodien26/images/anh1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/giaodien26/images/anh2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/giaodien26/images/anh3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/giaodien26/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/đilam/giaodien26/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catgiaodien/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catgiaodien/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7eafec31-8032-4337-90a6-7a7188cf7d3d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,7 +183,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,6 +382,7 @@
       <workItem from="1566891258414" duration="599000" />
       <workItem from="1566893112882" duration="902000" />
       <workItem from="1566895049167" duration="598000" />
+      <workItem from="1566897846354" duration="580000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1561723899571</created>
@@ -551,17 +482,23 @@
       <option name="project" value="LOCAL" />
       <updated>1566448884515</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="init">
+      <created>1566897879707</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1566897879708</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242678000" />
+    <option name="totallyTimeSpent" value="243258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21709532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22012103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
