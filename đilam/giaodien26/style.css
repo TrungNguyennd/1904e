@@ -4,6 +4,7 @@ body{
     font-family:"Open Sans", Arial, sans-serif;
     font-size: 16px;
     margin: 0;
+    padding: 0;
 }
 .clearfix{
     clear: both;
@@ -106,18 +107,15 @@ nav .submenu li a{
 }
 .container .container-menu ul li:hover .submenu{
     display: block;
-
 }
 .container .container-menu ul li:hover .submenu:before{
-
     position: absolute;
     top: -5px;
-    left: 32%;
+    left: 33%;
     width: 0;
     height: 0;
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
-
     border-bottom: 5px solid black;
     content:'';
 
@@ -136,10 +134,9 @@ footer{
 background-color: #25282a;
     color: white;
     height: 550px;
-    box-sizing: border-box;
+
 }
 footer .row1{
-    box-sizing: border-box;
     width: 25%;
     float: left;
 }
@@ -159,11 +156,11 @@ footer .row1 p{
 }
 footer .icon{
     color: white;
-    font-size: 13px;
+    font-size: 12px;
 }
 footer .icon i{
-    width: 20px;
-    height: 20px;
+    width: 18px;
+    height: 18px;
     text-align: center;
     border: 1px solid white;
     border-radius: 50%;
@@ -187,7 +184,7 @@ footer .row2 ul li a{
     color: white;
     line-height: 2.2;
     font-size: 14px;
-    margin-left: -35px;
+    margin-left: -38px;
 }
 footer .row2 ul li a i{
     margin-right: 17px;
