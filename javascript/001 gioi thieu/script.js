@@ -1,0 +1,1 @@
+alert("nhungs 1 file js từ bên ngoài ");

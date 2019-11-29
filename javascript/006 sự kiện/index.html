@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<pre>
+    document.getElementById('id').innerHTML="sự kiện trng js "
+    document là văn bản js
+    getElementById('id') để chọn một 1 thẻ id tương ứng
+    innerHTML để truy cập vào nội dung html thẻ đó
+    các sự kiện trong js bao gồm :
+    onchange :  một phần tử html được thay đổi
+    onclick : khi người dùng nhấp chuột vào phần tử html
+    onmouseover : khi người dùng di chuột lên 1 phàn tử html
+    onmouseout : khi người dùng di chuột ra khỏi phần tử html
+    onkeydown :khi người dùng đẩy 1 chìa khóa bàn phím
+    onload : trình duyệt đã tải song
+</pre>
+<div id="target">noi dung demo</div>
+<button onclick="changeContent()">click vao toi</button>
+<script type="text/javascript">
+ function changeContent() {
+     document.getElementById('target').innerHTML="sự kiện onclick trong js ";
+ }
+</script>
+</body>
+</html>

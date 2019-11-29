@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<pre>
+    câu lệnh continue dùng để bỏ qua vòng lặp hiện tại
+
+</pre>
+<script type="text/javascript">
+    console.log("continue for");
+    for(var i = 1; i <= 10; i++) {
+        if (i == 5) {
+            continue;
+        }
+        console.log(i);
+    }
+    console.log("continue while");
+    var n = 0;
+    while(n <= 10) {
+        n++;
+        if (n == 5) {
+            continue;
+        }
+        if (n < 11) {
+            console.log(n);
+        }
+    }
+</script>
+</body>
+</html>

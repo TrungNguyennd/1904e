@@ -2,27 +2,615 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eafec31-8032-4337-90a6-7a7188cf7d3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/010opp/004/abstract/dongvat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/004/class/cho.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/004/class/ga.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/004/class/meo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/004/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/004/interface/an.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/004/interface/keu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/004/interface/sinhsan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/005/abstract/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/005/class/mongo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/005/class/mysql.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/005/class/postgresql.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/005/class/redis.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/005/interface/crud.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/005/interface/log.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/005/interface/search.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010opp/006trai/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/001 gioi thieu/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/001 gioi thieu/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/001 gioi thieu/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/001 gioi thieu/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/001 gioi thieu/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/001 gioi thieu/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/001 gioi thieu/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/002bien/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/003toantu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/003toantu/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/004funcition/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/004funcition/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/004funcition/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/005 objects/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/006 sự kiện/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/007array/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/007array/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/007array/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/007array/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/007array/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/007array/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/007array/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/007array/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/008 string/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/008 string/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/008 string/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/009date/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/009date/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/010ifelse/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/010ifelse/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/011swichcase/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/012loop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/012loop/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/012loop/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/012loop/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/012loop/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/013output/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/013output/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/015json/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/015json/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/015json/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/1904e.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1904e.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/001/final.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/001/final.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/001/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/001/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/001/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/001/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/001/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/001/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/001/index4.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/001/index4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/001/index5.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/001/index5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/001/index6.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/001/index6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/001/index7.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/001/index7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/001/index8.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/001/index8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/002/class1.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/002/class1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/002/class2.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/002/class2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/002/class3.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/002/class3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/003/class1.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/003/class1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/003/class2.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/003/class2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/003/class3.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/003/class3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/003/class4.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/003/class4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/004/abstract/dongvat.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/004/abstract/dongvat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/004/class/cho.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/004/class/cho.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/004/class/ga.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/004/class/ga.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/004/class/meo.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/004/class/meo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/004/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/004/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/004/interface/an.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/004/interface/an.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/004/interface/keu.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/004/interface/keu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/004/interface/sinhsan.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/004/interface/sinhsan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/005/abstract/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/005/abstract/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/005/class/mongo.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/005/class/mongo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/005/class/mysql.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/005/class/mysql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/005/class/postgresql.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/005/class/postgresql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/005/class/redis.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/005/class/redis.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/005/interface/crud.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/005/interface/crud.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/005/interface/log.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/005/interface/log.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/005/interface/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/005/interface/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010opp/006trai/demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/010opp/006trai/demo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/001.gioithieuhtml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/001.gioithieuhtml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/004.htmlcoban/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/004.htmlcoban/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/005thuoctinhhtml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/005thuoctinhhtml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/005thuoctinhhtml/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/005thuoctinhhtml/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/006.pre/pre.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/006.pre/pre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/007.stylecss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/007.stylecss/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/008.classid/baitap.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/008.classid/baitap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/008.classid/class.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/008.classid/class.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/008.classid/id.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/008.classid/id.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/009.fomaing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/009.fomaing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/010conmemt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/010conmemt/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/011color/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/011color/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/012css/extenal.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/012css/extenal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/012css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/012css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/012css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/012css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/013link/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/013link/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/014images/anh-bia-one-piece-dep_111106142.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/014images/anh-bia-one-piece-dep_111106142.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/014images/case1/anh-bia-one-piece-dep_111106142.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/014images/case1/anh-bia-one-piece-dep_111106142.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/014images/case1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/014images/case1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/014images/case2/assets/images/anh-bia-one-piece-dep_111106142.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/014images/case2/assets/images/anh-bia-one-piece-dep_111106142.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/014images/case2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/014images/case2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/014images/case3/anh-bia-one-piece-dep_111106142.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/014images/case3/anh-bia-one-piece-dep_111106142.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/014images/case3/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/014images/case3/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/014images/case4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/014images/case4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/014images/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/014images/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/015javascript/case1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/015javascript/case1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/015javascript/case1/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/015javascript/case1/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/015javascript/case2/asset/js/scipt.js" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/015javascript/case2/asset/js/scipt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/015javascript/case2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/015javascript/case2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/015javascript/case3/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/015javascript/case3/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/015javascript/case3/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/015javascript/case3/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/015javascript/case4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/015javascript/case4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/016table/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/016table/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/017list/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/017list/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/018iframes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/018iframes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/019form/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/019form/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/020layout/html4.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/020layout/html4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/020layout/html5.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/020layout/html5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/020layout/viduj.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/020layout/viduj.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M1_html/021blook/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M1_html/021blook/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/001into/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/001into/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/001into/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/001into/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/001into/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/001into/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/001into/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/001into/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/001into/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/001into/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/001into/scrip.js" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/001into/scrip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/002bien/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/002bien/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/003kieudulieu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/003kieudulieu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/004toantu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/004toantu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/004toantu/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/004toantu/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/005funtion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/005funtion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/005funtion/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/005funtion/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/005funtion/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/005funtion/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/006ifslse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/006ifslse/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/006ifslse/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/006ifslse/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/007switchcase/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/007switchcase/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/008lop/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/008lop/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/008lop/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/008lop/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/008lop/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/008lop/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/008lop/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/008lop/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/008lop/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/008lop/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/009array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/009array/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/009array/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/009array/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/009array/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/009array/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/009array/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/009array/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/009array/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/009array/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/009array/index6.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/009array/index6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/009array/index7.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/009array/index7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/009array/index8.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/009array/index8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/010string/indedx.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/010string/indedx.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/010string/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/010string/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/010string/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/010string/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/011object/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/011object/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/011object/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/011object/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/012date/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/012date/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/012date/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/012date/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/013event/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/013event/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/014output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/014output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/015jison/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/015jison/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/015jison/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/015jison/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M4javacrip/015jison/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/M4javacrip/015jison/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applogin/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/applogin/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applogin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/applogin/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applogin/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/applogin/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applogin/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/applogin/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applogin/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/applogin/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/applogin/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/applogin/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1phancrud/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai1phancrud/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1phancrud/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai1phancrud/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1phancrud/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai1phancrud/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1phancrud/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai1phancrud/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1phancrud/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/bai1phancrud/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai1phancrud/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai1phancrud/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap19.8/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/baitap19.8/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap19.8/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/baitap19.8/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap2/dropdownmenu/assets/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/baitap2/dropdownmenu/assets/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap2/dropdownmenu/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/baitap2/dropdownmenu/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap2/dropdownmenu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap2/dropdownmenu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap2/floatmenu/assets/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/baitap2/floatmenu/assets/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap2/floatmenu/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/baitap2/floatmenu/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitap2/floatmenu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap2/floatmenu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/intro1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/intro1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/intro2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/intro2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/logo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/logo2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/logo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/logo3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/logo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/logo4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/logo5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/logo5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/logo6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/logo6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/image/logo7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/image/logo7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catgiaodien/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/catgiaodien/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hochtmltainha/001thecoban.html" beforeDir="false" afterPath="$PROJECT_DIR$/hochtmltainha/001thecoban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hochtmltainha/002cacthelienket.html" beforeDir="false" afterPath="$PROJECT_DIR$/hochtmltainha/002cacthelienket.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hochtmltainha/003link.html" beforeDir="false" afterPath="$PROJECT_DIR$/hochtmltainha/003link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hochtmltainha/004cehnhinhanh/004khaibaodulieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/hochtmltainha/004cehnhinhanh/004khaibaodulieu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hochtmltainha/004cehnhinhanh/link.html" beforeDir="false" afterPath="$PROJECT_DIR$/hochtmltainha/004cehnhinhanh/link.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hocphptainha/001nhungcss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hocphptainha/001nhungcss/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hocphptainha/001nhungcss/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hocphptainha/001nhungcss/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hocphptainha/001nhungcss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hocphptainha/001nhungcss/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hocphptainha/002vungchoncss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hocphptainha/002vungchoncss/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hocphptainha/002vungchoncss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hocphptainha/002vungchoncss/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hocphptainha/003trangtivanban/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hocphptainha/003trangtivanban/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hocphptainha/z-index/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/hocphptainha/z-index/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/controllers/backend/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/backend/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/controllers/backend/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/backend/post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/controllers/controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/controllers/frontend/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/frontend/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/controllers/frontend/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/controllers/frontend/post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/models/backend/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/models/backend/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/models/backend/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/models/backend/post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/models/frontend/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/models/frontend/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/models/frontend/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/models/frontend/post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/002/app/models/model.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/002/app/models/model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/controllers/backend/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/backend/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/controllers/backend/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/backend/post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/controllers/controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/controllers/frontend/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/frontend/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/controllers/frontend/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/controllers/frontend/post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/models/backend/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/models/backend/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/models/backend/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/models/backend/post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/models/frontend/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/models/frontend/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/models/frontend/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/models/frontend/post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m11namespace/003/app/models/model.php" beforeDir="false" afterPath="$PROJECT_DIR$/m11namespace/003/app/models/model.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/001nhungcss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/001nhungcss/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/001nhungcss/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/001nhungcss/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/001nhungcss/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/001nhungcss/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/001nhungcss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/001nhungcss/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/002cssselcter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/002cssselcter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/002cssselcter/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/002cssselcter/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/002cssselcter/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/002cssselcter/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/002cssselcter/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/002cssselcter/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/002cssselcter/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/002cssselcter/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/002cssselcter/index6.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/002cssselcter/index6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/background-attechenmet.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/background-attechenmet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/background-attechenmet1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/background-attechenmet1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/imges/anh1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/imges/anh1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/imges/hinh-nen-luffy-gear-4-one-piece-hd-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/imges/hinh-nen-luffy-gear-4-one-piece-hd-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/nenanh/imges/anh1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/nenanh/imges/anh1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/nenanh/imges/hinh-nen-luffy-gear-4-one-piece-hd-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/nenanh/imges/hinh-nen-luffy-gear-4-one-piece-hd-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/nenanh/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/nenanh/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/nenanh/repeat.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/nenanh/repeat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/003backgroundcss/shothand.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/003backgroundcss/shothand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/004boder/fourside.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/004boder/fourside.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/004boder/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/004boder/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/004boder/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/004boder/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/004boder/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/004boder/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/004boder/shorthand.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/004boder/shorthand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/005magin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/005magin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/005magin/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/005magin/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/005magin/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/005magin/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/005magin/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/005magin/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/006padding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/006padding/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/006padding/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/006padding/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/006padding/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/006padding/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/006padding/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/006padding/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/007heightwidth/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/007heightwidth/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/007heightwidth/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/007heightwidth/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/008boxmodel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/008boxmodel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/008boxmodel/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/008boxmodel/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/009text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/009text/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/009text/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/009text/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/009text/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/009text/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/009text/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/009text/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/009text/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/009text/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/009text/index6.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/009text/index6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/index6.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/index6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/index7.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/index7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/index8.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/index8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/index9.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/index9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/010font/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/010font/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/011fonticon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/011fonticon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/012link/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/012link/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/012link/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/012link/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/012link/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/012link/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/012link/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/012link/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/012link/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/012link/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/012link/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/012link/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/013list/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/013list/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/013list/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/013list/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/014display/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/014display/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/014display/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/014display/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/014display/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/014display/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/015dinernation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/015dinernation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/015dinernation/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/015dinernation/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/015dinernation/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/015dinernation/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/015dinernation/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/015dinernation/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/absolute.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/absolute.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/absolute2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/absolute2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/absolute3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/absolute3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/absolute4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/absolute4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/fixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/fixed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/fixed1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/fixed1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/relative.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/relative.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/relative1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/relative1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/relative2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/relative2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/016position/sticky.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/016position/sticky.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/017overflow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/017overflow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/017overflow/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/017overflow/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/017overflow/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/017overflow/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/017overflow/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/017overflow/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/017overflow/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/017overflow/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/017overflow/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/017overflow/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/017overflow/index6.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/017overflow/index6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/018float/float.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/018float/float.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/019inlineblock/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/019inlineblock/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/019inlineblock/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/019inlineblock/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/019inlineblock/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/019inlineblock/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/020affterbefor/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/020affterbefor/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/020affterbefor/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/020affterbefor/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/020affterbefor/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/020affterbefor/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/020affterbefor/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/020affterbefor/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/020affterbefor/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/020affterbefor/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/anh1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/anh1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index10.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index11.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index12.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index6.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index7.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index8.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/index9.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/index9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/021algin/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/021algin/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/022morong/index 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/022morong/index 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/022morong/index 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/022morong/index 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/022morong/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/022morong/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/022morong/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/022morong/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/023hover/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/023hover/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/023hover/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/023hover/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Ranga/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Ranga/OFL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Ranga/Ranga-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Ranga/Ranga-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Ranga/Ranga-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Ranga/Ranga-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-ThinItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/fonts/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/024webfont/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/024webfont/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/025boderbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/025boderbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/025boderbox/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/025boderbox/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/025boderbox/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/025boderbox/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/025boderbox/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/025boderbox/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/026transition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/026transition/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/026transition/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/026transition/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/026transition/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/026transition/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/026transition/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/026transition/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/027radius/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/027radius/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/028mediaqueries/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/028mediaqueries/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/028mediaqueries/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/028mediaqueries/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/028mediaqueries/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/028mediaqueries/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/028mediaqueries/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/028mediaqueries/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m2_css/028mediaqueries/vidu.html" beforeDir="false" afterPath="$PROJECT_DIR$/m2_css/028mediaqueries/vidu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/001homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/001homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/003typo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/003typo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index10.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index11.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index6.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index7.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index8.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3/004table/index9.html" beforeDir="false" afterPath="$PROJECT_DIR$/m3/004table/index9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/001.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/001.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/m5-json/001/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/001/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/001/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/001/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/001/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/001/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/002document/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/002document/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/003click/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/003click/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/003click/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/003click/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/004jqueryevent/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/004jqueryevent/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/004jqueryevent/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/004jqueryevent/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/004jqueryevent/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/004jqueryevent/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/004jqueryevent/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/004jqueryevent/index4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/005hideandshow/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/005hideandshow/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/005hideandshow/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/005hideandshow/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/005hideandshow/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/005hideandshow/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/006face/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/006face/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/006face/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/006face/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/007slide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/007slide/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/007slide/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/007slide/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/008animate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/008animate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/009chainning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/009chainning/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/010this/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/010this/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/010this/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/010this/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/011get/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/011get/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/011get/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/011get/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/011get/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/011get/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/012add/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/012add/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/013remove/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/013remove/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/014class/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/014class/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/015css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/015css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/015css/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/015css/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/016dimemsion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/016dimemsion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/016dimemsion/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/016dimemsion/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/017ancester/parent.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/017ancester/parent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/017ancester/parent1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/017ancester/parent1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/017ancester/parents.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/017ancester/parents.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/017ancester/parentuntil.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/017ancester/parentuntil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/018descendant/children.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/018descendant/children.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/018descendant/children1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/018descendant/children1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/018descendant/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/018descendant/find.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/019siblings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/019siblings/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/019siblings/next.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/019siblings/next.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/019siblings/nextAll.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/019siblings/nextAll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/019siblings/nextUntill.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/019siblings/nextUntill.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/019siblings/prev.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/019siblings/prev.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/019siblings/prevAll.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/019siblings/prevAll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/019siblings/prevUntil.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/019siblings/prevUntil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/019siblings/siblings.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/019siblings/siblings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/019siblings/siblings1.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/019siblings/siblings1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/020filter/eq.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/020filter/eq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/020filter/filter.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/020filter/filter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/020filter/first.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/020filter/first.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/020filter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/020filter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/020filter/last.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/020filter/last.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m5-json/020filter/not.html" beforeDir="false" afterPath="$PROJECT_DIR$/m5-json/020filter/not.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/001vidu/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/001vidu/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/001vidu/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/001vidu/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/002vidu2/images/anh45.png" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/002vidu2/images/anh45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/002vidu2/images/anh67.png" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/002vidu2/images/anh67.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/002vidu2/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/002vidu2/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/002vidu2/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/002vidu2/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/002vidu2/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/002vidu2/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/002vidu2/index4.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/002vidu2/index4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/002vidu2/samlpe.html" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/002vidu2/samlpe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/003datatype/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/003datatype/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/003datatype/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/003datatype/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/003datatype/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/003datatype/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/003datatype/index4.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/003datatype/index4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/003datatype/index5.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/003datatype/index5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/003datatype/index6.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/003datatype/index6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/004openrator/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/004openrator/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/004openrator/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/004openrator/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index10.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index10a.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index10a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index10b.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index10b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index4.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index5.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index6.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index7.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index8.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/005conditiona/index9.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/005conditiona/index9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/006while/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/006while/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/006while/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/006while/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/006while/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/006while/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/006while/index4.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/006while/index4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/007ham/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/007ham/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/007ham/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/007ham/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/007ham/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/007ham/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/007ham/index4.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/007ham/index4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/007ham/index5.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/007ham/index5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/007ham/index6.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/007ham/index6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/007ham/index7.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/007ham/index7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/008posst/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/008posst/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/008posst/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/008posst/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/008posst/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/008posst/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/008posst/index4.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/008posst/index4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/008posst/process.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/008posst/process.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/008posst/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/008posst/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index10.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index12.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index12.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index13.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index13.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index14.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index14.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index4.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index5.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index6.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index7.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index8.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/index9.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/index9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/009array/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/009array/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/011.get/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/011.get/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/011.get/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/011.get/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/012date/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/012date/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/012date/indx2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/012date/indx2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/013secition/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/013secition/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/013secition/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/013secition/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/013secition/index3.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/013secition/index3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/013secition/index4.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/013secition/index4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/013secition/index5.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/013secition/index5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/013secition/index6.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/013secition/index6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/013secition/index7.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/013secition/index7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/001/fucitions.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/001/fucitions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/001/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/001/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/002/funcitiona.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/002/funcitiona.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/002/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/002/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/003/funcition.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/003/funcition.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/003/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/003/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/004/funcition.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/004/funcition.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/004/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/004/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/005/funcition.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/005/funcition.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/005/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/005/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/006/funcition.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/006/funcition.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/006/include-one.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/006/include-one.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/006/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/006/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/006/lý thuyết.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/006/lý thuyết.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/006/require.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/006/require.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/014includevarequire/006/require_one.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/014includevarequire/006/require_one.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/015cookie/index1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/015cookie/index1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m6-php/015cookie/index2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m6-php/015cookie/index2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m8.crud/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/m8.crud/connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m8.crud/connect1.php" beforeDir="false" afterPath="$PROJECT_DIR$/m8.crud/connect1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m8.crud/connect2.php" beforeDir="false" afterPath="$PROJECT_DIR$/m8.crud/connect2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m8.crud/connect4.php" beforeDir="false" afterPath="$PROJECT_DIR$/m8.crud/connect4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m8.crud/connect5.php" beforeDir="false" afterPath="$PROJECT_DIR$/m8.crud/connect5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m8.crud/connect6.php" beforeDir="false" afterPath="$PROJECT_DIR$/m8.crud/connect6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m9crud/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/m9crud/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m9crud/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/m9crud/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m9crud/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/m9crud/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m9crud/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/m9crud/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m9crud/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/m9crud/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m9crud/sample.html" beforeDir="false" afterPath="$PROJECT_DIR$/m9crud/sample.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thử tess/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/thử tess/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/PSD/region.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/PSD/region.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/PSD/special-offers.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/PSD/special-offers.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/PSD/special-offers.psd" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/PSD/special-offers.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/images/search-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/images/search-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/images/service1.png" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/images/service1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/images/service2.png" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/images/service2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/images/service3.png" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/images/service3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/images/service4.png" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/images/service4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/images/sidebar-bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/images/sidebar-bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/images/twitter-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/images/twitter-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/001/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/001/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/002/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/002/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/002/images/LOGO.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/002/images/LOGO.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/002/images/LOGO1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/002/images/LOGO1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/002/images/banner_26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/002/images/banner_26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/002/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/002/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/002/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/002/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/css/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/css/style1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-MediumItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-RegularItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-RegularItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Thin.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-ThinItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/icon/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/icon/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/icon/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/icon/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/font/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/font/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/giaodien26/images/anh1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/giaodien26/images/anh1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/giaodien26/images/anh2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/giaodien26/images/anh2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/giaodien26/images/anh3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/giaodien26/images/anh3.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/đilam/giaodien26/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/giaodien26/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/đilam/giaodien26/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/giaodien26/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/LOGO.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/LOGO.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh1.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh10.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh10.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh11.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh11.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh12.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh12.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh2.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh3.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh3.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh4.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh5.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh5.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh6.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh6.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh7.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh7.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh8.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh8.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/anh9.gif" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/anh9.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/baner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/baner2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/banner1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/banner3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/banner4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/banner4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/banner5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/banner5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/images/banner_26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/images/banner_26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/đilam/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/đilam/index2.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,91 +621,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010opp/004/index.html">
+        <entry file="file://$PROJECT_DIR$/javascript/012loop/index3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="161">
+              <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010opp/005/abstract/database.php">
+        <entry file="file://$PROJECT_DIR$/javascript/012loop/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="545">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010opp/005/class/mongo.php">
+        <entry file="file://$PROJECT_DIR$/javascript/012loop/index4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1118">
-              <caret line="43" column="5" selection-end-line="44" selection-end-column="1" />
+            <state relative-caret-position="545">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010opp/005/interface/crud.php">
+        <entry file="file://$PROJECT_DIR$/javascript/013output/index1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="216">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010opp/005/interface/log.php">
+        <entry file="file://$PROJECT_DIR$/javascript/013output/index3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="233">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/015json/index1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/015json/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/009date/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/010opp/006trai/demo.php">
+        <entry file="file://$PROJECT_DIR$/javascript/009date/index1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+            <state relative-caret-position="288">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010opp/005/interface/search.php">
+        <entry file="file://$PROJECT_DIR$/javascript/015json/index3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010opp/005/class/mysql.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010opp/005/class/postgresql.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="100" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/010opp/005/class/redis.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="216">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -128,6 +716,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -138,49 +727,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/applogin/login.php" />
-        <option value="$PROJECT_DIR$/010opp/001/index1.php" />
-        <option value="$PROJECT_DIR$/010opp/001/index2.php" />
-        <option value="$PROJECT_DIR$/010opp/001/index3.php" />
-        <option value="$PROJECT_DIR$/010opp/001/index4.php" />
-        <option value="$PROJECT_DIR$/010opp/001/index5.php" />
-        <option value="$PROJECT_DIR$/010opp/001/index7.php" />
-        <option value="$PROJECT_DIR$/010opp/001/index8.php" />
-        <option value="$PROJECT_DIR$/010opp/001/final.php" />
-        <option value="$PROJECT_DIR$/catgiaodien/index.html" />
-        <option value="$PROJECT_DIR$/catgiaodien/css/style.css" />
-        <option value="$PROJECT_DIR$/010opp/002/class1.php" />
-        <option value="$PROJECT_DIR$/010opp/002/class2.php" />
-        <option value="$PROJECT_DIR$/010opp/002/class3.php" />
-        <option value="$PROJECT_DIR$/010opp/003/class2.php" />
-        <option value="$PROJECT_DIR$/010opp/003/class1.php" />
-        <option value="$PROJECT_DIR$/010opp/003/class4.php" />
-        <option value="$PROJECT_DIR$/010opp/003/class3.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/controllers/backend/index.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/controllers/backend/post.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/controllers/frontend/index.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/controllers/frontend/post.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/controllers/controller.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/models/model.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/models/frontend/post.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/models/frontend/index.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/models/backend/post.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/models/backend/index.php" />
-        <option value="$PROJECT_DIR$/m11namespace/002/app/app.php" />
-        <option value="$PROJECT_DIR$/thử tess/index1.html" />
-        <option value="$PROJECT_DIR$/đilam/giaodien26/index.html" />
-        <option value="$PROJECT_DIR$/đilam/giaodien26/style.css" />
-        <option value="$PROJECT_DIR$/m5-json/001/index.html" />
-        <option value="$PROJECT_DIR$/m5-json/003click/index2.html" />
-        <option value="$PROJECT_DIR$/010opp/004/abstract/dongvat.php" />
-        <option value="$PROJECT_DIR$/010opp/004/interface/an.php" />
-        <option value="$PROJECT_DIR$/010opp/004/interface/keu.php" />
-        <option value="$PROJECT_DIR$/010opp/004/interface/sinhsan.php" />
-        <option value="$PROJECT_DIR$/010opp/004/class/cho.php" />
-        <option value="$PROJECT_DIR$/010opp/004/class/ga.php" />
-        <option value="$PROJECT_DIR$/010opp/004/class/meo.php" />
-        <option value="$PROJECT_DIR$/010opp/004/index.html" />
-        <option value="$PROJECT_DIR$/010opp/005/abstract/database.php" />
         <option value="$PROJECT_DIR$/010opp/005/class/mongo.php" />
         <option value="$PROJECT_DIR$/010opp/005/class/mysql.php" />
         <option value="$PROJECT_DIR$/010opp/005/class/postgresql.php" />
@@ -189,6 +735,49 @@
         <option value="$PROJECT_DIR$/010opp/005/interface/search.php" />
         <option value="$PROJECT_DIR$/010opp/005/interface/log.php" />
         <option value="$PROJECT_DIR$/010opp/006trai/demo.php" />
+        <option value="$PROJECT_DIR$/M1_html/016table/index.html" />
+        <option value="$PROJECT_DIR$/javascript/001 gioi thieu/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/001 gioi thieu/index2.html" />
+        <option value="$PROJECT_DIR$/javascript/001 gioi thieu/script.js" />
+        <option value="$PROJECT_DIR$/javascript/001 gioi thieu/index3.html" />
+        <option value="$PROJECT_DIR$/javascript/001 gioi thieu/index4.html" />
+        <option value="$PROJECT_DIR$/javascript/001 gioi thieu/inde5.html" />
+        <option value="$PROJECT_DIR$/javascript/001 gioi thieu/index5.html" />
+        <option value="$PROJECT_DIR$/javascript/001 gioi thieu/index6.html" />
+        <option value="$PROJECT_DIR$/javascript/002bien/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/003toantu/index.html" />
+        <option value="$PROJECT_DIR$/javascript/003toantu/index2.html" />
+        <option value="$PROJECT_DIR$/javascript/004funcition/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/004funcition/index2.html" />
+        <option value="$PROJECT_DIR$/javascript/004funcition/index3.html" />
+        <option value="$PROJECT_DIR$/javascript/005 objects/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/006 sự kiện/index.html" />
+        <option value="$PROJECT_DIR$/javascript/007array/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/007array/index2.html" />
+        <option value="$PROJECT_DIR$/javascript/007array/index3.html" />
+        <option value="$PROJECT_DIR$/javascript/007array/index4.html" />
+        <option value="$PROJECT_DIR$/javascript/007array/index5.html" />
+        <option value="$PROJECT_DIR$/javascript/007array/index6.html" />
+        <option value="$PROJECT_DIR$/javascript/007array/index7.html" />
+        <option value="$PROJECT_DIR$/javascript/007array/index8.html" />
+        <option value="$PROJECT_DIR$/javascript/008 string/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/008 string/index2.html" />
+        <option value="$PROJECT_DIR$/javascript/008 string/index3.html" />
+        <option value="$PROJECT_DIR$/javascript/009date/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/009date/index2.html" />
+        <option value="$PROJECT_DIR$/javascript/010ifelse/index.html" />
+        <option value="$PROJECT_DIR$/javascript/010ifelse/index2.html" />
+        <option value="$PROJECT_DIR$/javascript/011swichcase/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/012loop/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/012loop/index2.html" />
+        <option value="$PROJECT_DIR$/javascript/012loop/index3.html" />
+        <option value="$PROJECT_DIR$/javascript/012loop/index.html" />
+        <option value="$PROJECT_DIR$/javascript/012loop/index4.html" />
+        <option value="$PROJECT_DIR$/javascript/013output/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/013output/index3.html" />
+        <option value="$PROJECT_DIR$/javascript/015json/index1.html" />
+        <option value="$PROJECT_DIR$/javascript/015json/index2.html" />
+        <option value="$PROJECT_DIR$/javascript/015json/index3.html" />
       </list>
     </option>
   </component>
@@ -197,10 +786,10 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="755" />
-    <option name="y" value="43" />
-    <option name="width" value="577" />
-    <option name="height" value="613" />
+    <option name="x" value="691" />
+    <option name="y" value="38" />
+    <option name="width" value="667" />
+    <option name="height" value="607" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -210,6 +799,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,34 +810,64 @@
             <path>
               <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
               <item name="1904e" type="462c0819:PsiDirectoryNode" />
-              <item name="010opp" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
               <item name="1904e" type="462c0819:PsiDirectoryNode" />
-              <item name="010opp" type="462c0819:PsiDirectoryNode" />
-              <item name="006trai" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="009date" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
               <item name="1904e" type="462c0819:PsiDirectoryNode" />
-              <item name="applogin" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="015json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
               <item name="1904e" type="462c0819:PsiDirectoryNode" />
-              <item name="bai1phancrud" type="462c0819:PsiDirectoryNode" />
+              <item name="M4javacrip" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
               <item name="1904e" type="462c0819:PsiDirectoryNode" />
-              <item name="baitap2" type="462c0819:PsiDirectoryNode" />
+              <item name="M4javacrip" type="462c0819:PsiDirectoryNode" />
+              <item name="006ifslse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="M4javacrip" type="462c0819:PsiDirectoryNode" />
+              <item name="008lop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="M4javacrip" type="462c0819:PsiDirectoryNode" />
+              <item name="013event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="m5-json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="m5-json" type="462c0819:PsiDirectoryNode" />
+              <item name="014class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1904e" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1904e" type="462c0819:PsiDirectoryNode" />
+              <item name="m5-json" type="462c0819:PsiDirectoryNode" />
+              <item name="015css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,7 +875,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../magento2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -269,19 +889,19 @@
     <property name="vcs.patch.to.clipboard" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\1904e\đilam\giaodien26\images" />
-      <recent name="C:\xampp\htdocs\1904e\m11namespace" />
-      <recent name="C:\xampp\htdocs\1904e\m11namespace\002\models\frontend" />
-      <recent name="C:\xampp\htdocs\1904e\m11namespace\002\models" />
-      <recent name="C:\xampp\htdocs\1904e\010opp\003" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\1904e\010opp" />
       <recent name="C:\xampp\htdocs\1904e\m11namespace\002\app" />
       <recent name="C:\xampp\htdocs\1904e\m11namespace\002\models" />
       <recent name="C:\xampp\htdocs\1904e\đilam\font\fontawesome-free-5.10.1-web\css" />
       <recent name="C:\xampp\htdocs\1904e\m5-json" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\1904e\đilam\giaodien26\images" />
+      <recent name="C:\xampp\htdocs\1904e\m11namespace" />
+      <recent name="C:\xampp\htdocs\1904e\m11namespace\002\models\frontend" />
+      <recent name="C:\xampp\htdocs\1904e\m11namespace\002\models" />
+      <recent name="C:\xampp\htdocs\1904e\010opp\003" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -471,6 +1091,15 @@
       <workItem from="1567754655613" duration="1766000" />
       <workItem from="1567758278028" duration="2205000" />
       <workItem from="1567768956471" duration="8364000" />
+      <workItem from="1567992882577" duration="75000" />
+      <workItem from="1568017102523" duration="1295000" />
+      <workItem from="1568078125941" duration="286000" />
+      <workItem from="1569203755930" duration="72000" />
+      <workItem from="1569204278414" duration="1234000" />
+      <workItem from="1574223060252" duration="627000" />
+      <workItem from="1574827520834" duration="4263000" />
+      <workItem from="1574903392277" duration="10089000" />
+      <workItem from="1574989656419" duration="10071000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1561723899571</created>
@@ -609,12 +1238,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298372000" />
+    <option name="totallyTimeSpent" value="326384000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="59" y="-4" width="1307" height="772" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28214827" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32275972" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -657,287 +1286,338 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/đilam/giaodien26/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3302">
-          <caret line="127" column="11" selection-start-line="127" selection-start-column="11" selection-end-line="127" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thử tess/index1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/004jqueryevent/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/004jqueryevent/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/004jqueryevent/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/004jqueryevent/index4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/005hideandshow/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/005hideandshow/index1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/005hideandshow/index2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/006face/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/006face/index1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/001into/index3.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/001into/index4.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/001into/index5.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/001into/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/003kieudulieu/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/001into/index2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/002bien/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/008lop/index1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/008lop/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/015jison/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/008lop/index3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/008lop/index4.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/004toantu/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/001/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/001/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/001/jquery-3.4.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/002document/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/003click/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/004toantu/index2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/005funtion/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/006ifslse/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M4javacrip/001into/scrip.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/m5-json/003click/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/004/abstract/dongvat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/004/interface/sinhsan.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/004/class/cho.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/004/interface/an.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/004/class/meo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/004/interface/keu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/004/class/ga.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/004/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/005/abstract/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/005/class/mongo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1118">
-          <caret line="43" column="5" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/010opp/005/class/mysql.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
+        <state relative-caret-position="288">
           <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/010opp/005/class/postgresql.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="288">
           <caret line="12" column="100" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/đilam/001/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="70" column="48" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/001 gioi thieu/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/001 gioi thieu/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/001 gioi thieu/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/001 gioi thieu/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/001 gioi thieu/index4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/001 gioi thieu/index5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/001 gioi thieu/index6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/010opp/005/class/redis.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="168">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/005/interface/crud.php">
+    <entry file="file://$PROJECT_DIR$/javascript/002bien/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="377">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/005/interface/search.php">
+    <entry file="file://$PROJECT_DIR$/javascript/003toantu/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="473">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/005/interface/log.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010opp/006trai/demo.php">
+    <entry file="file://$PROJECT_DIR$/javascript/003toantu/index2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/004funcition/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/004funcition/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/004funcition/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/005 objects/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/006 sự kiện/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="77" selection-start-line="24" selection-start-column="77" selection-end-line="24" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/007array/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/007array/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/007array/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/007array/index4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/m5-json/015css/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M4javacrip/006ifslse/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M4javacrip/008lop/index1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M4javacrip/013event/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/007array/index5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/007array/index6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/007array/index7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/007array/index8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/008 string/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="53" selection-start-line="13" selection-start-column="53" selection-end-line="13" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/008 string/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/008 string/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/010ifelse/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/010ifelse/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/011swichcase/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/012loop/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/012loop/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M4javacrip/008lop/index2.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M4javacrip/008lop/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-343" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/012loop/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/012loop/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/012loop/index4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/013output/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/013output/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/015json/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/015json/index3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/015json/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/009date/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/009date/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
